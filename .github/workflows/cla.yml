@@ -22,5 +22,5 @@ jobs:
           cla-token: ${{ secrets.CLA_TOKEN }}
       - name: Set up Shopify CLI
         env:
-          SHOP_STORE: your-shop-name.myshopify.com
+          SHOP_STORE: ecom-dev-1.myshopify.com
         run: ./entrypoint.sh
