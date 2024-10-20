@@ -487,7 +487,7 @@
           "settings": {
             "text": {
               "label": "Text",
-              "default": "Welcome to our store"
+              "default": "FREE Shipping in Canada on all orders over $110"
             },
             "text_alignment": {
               "label": "Text alignment",
